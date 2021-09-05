@@ -1,6 +1,7 @@
 {
-  "short_name": "Dumb Duck",
+  "short_name": "Dumb Duck Campsite",
   "name": "Dumb Duck Campsite",
+  "description": "A playground for 10,000 ducks on the Ethereum blockchain",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,6 +20,7 @@
     }
   ],
   "start_url": ".",
+  "homepage_url": "https://www.dumbduck.xyz/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
